@@ -4,7 +4,7 @@ return require('packer').startup(function()
 
 	-- colorscheme
 	-- use 'gruvbox-community/gruvbox'
-
+  use 'Numkil/ag.nvim'
 	use 'preservim/nerdtree'
 	use 'tpope/vim-commentary'
 	use 'vim-airline/vim-airline'
